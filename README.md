@@ -1,21 +1,10 @@
-VITE Template Project
+SkyLink WebApp
 Licence: MIT
 Author: Miguel Ladines
+Release: v0.0.0
 
-Release: v1.0.0
-Dependencies Update: 03/04/2025
+Description:
 
-Includes:
-
-- REACT JS
-- TAILWINDCSS
-- PRETTIER
-- ESLINT
-- HUSKY + LINT STAGED
+Web application that tracks real time telemetry and geopositioning of Orbital Satellites.
 
 GIT: Master and "Dev" Branch
-
-Node Scripts:
-
-npm run lint
-npm run prettier
